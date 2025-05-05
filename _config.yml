@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yichi Zhang"
+title                    : "Yichi Zhang/Homepage"
 title_separator          : "-"
 name                     : &name "Yichi Zhang"
-description              : &description "personal description"
+description              : &description "3rd year undergraduate from StonyBrook University"
 url                      : https://yichixiaoju.github.io/YichiZhang.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
