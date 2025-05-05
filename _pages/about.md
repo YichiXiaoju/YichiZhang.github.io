@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student from [Stony Brook College of Engineering and Applied Sciences](https://www.stonybrook.edu/commcms/ceas/), Stony Brook University.  
+I'm a third-year undergraduate student majoring in **Applied Mathematics and Statistics** at [Stony Brook College of Engineering and Applied Sciences](https://www.stonybrook.edu/commcms/ceas/) and the [Department of Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/), Stony Brook University.
 My research interests lie at the intersection of **AI for Science**, **Large Language Models (LLMs)**, and **Generative Models**.  
 Specifically, I focus on leveraging LLMs for **molecular optimization** and **drug editing**, investigating how language-based models can understand and manipulate chemical structures through SMILES, SELFIES, or graph-based prompts. I am also interested in generative approaches that can propose novel molecules with desirable properties under complex constraints.
 
