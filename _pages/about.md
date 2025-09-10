@@ -18,7 +18,7 @@ I am currently preparing to apply for **Ph.D. or M.S. programs for Fall 2026**, 
 
 I am very fortunate to be advised by [Professor Yi Liu](https://jacoblau0513.github.io/) from Stony Brook University.
 
-You can find my CV here: [Yichi Zhang's Curriculum Vitae](assets/Yichi_Zhang_CV.pdf).
+You can find my CV here: [Yichi Zhang's Curriculum Vitae](assets/Yichi_Zhang_Resume.pdf).
 
 [Email](mailto:yichi.zhang@stonybrook.edu) / [GitHub](https://github.com/YichiXiaoju)
 
