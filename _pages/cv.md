@@ -22,7 +22,6 @@ Work experience
 * **AI Agent Intern**, Efficiency Innovation Department  
   * UU-Paotui (Zhengzhou Shidaidao Information Technology Co., Ltd.), **Zhengzhou, China** — **06/2025–08/2025**
   * Duties include: Built automation workflows on **Coze** integrating **LLMs (GPT-4o, Gemini, Sora)**; developed **text-to-PPT** system with layout optimization; implemented **auto-theme video generation** via **Doc2Video/Sora**; improved backend stability and integration pipelines.
-  * Supervisor: —
 
 * **BCG Data Science Job Simulation**  
   * Forage (Online), **09/2024**
@@ -31,7 +30,6 @@ Work experience
 * **Business Analytics Intern**  
   * New Development **KAILIN** Ltd., **Zhengzhou, China** — **07/2024–08/2024**
   * Duties included: Competitor pricing research; **regression & elasticity analysis** with **92% predictive accuracy**; automated data cleaning in **Pandas** (↑ efficiency **40%**); pricing correlation visualization (line/bar/heatmap) and strategic mind maps.
-  * Supervisor: —
 
 Research Experience
 ======
