@@ -61,19 +61,6 @@ Publications
 ======
 
 * X. Liu, Y. Ding, J. Qu, **Y. Zhang**, W. Gao, Y. Liu (2025). *RL-Guider: Leveraging Historical Decisions and Feedback for Drug Editing with Large Language Models.* ACL 2025 (Accepted).
--->
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html  %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
 
 Service and leadership
 ======
